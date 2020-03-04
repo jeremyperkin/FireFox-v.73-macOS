@@ -8,7 +8,7 @@ Firefox for my macOS version
 
 ![Screenshot](screenshots/screenshot1.png)
 
-
+![Screenshot](screenshots/screenshot7.png)
 
 ![Screenshot](screenshots/screenshot2.png)
 
@@ -16,3 +16,10 @@ Firefox for my macOS version
 ![Screenshot](screenshots/screenshot3.png)
 
 ![Screenshot](screenshots/screenshot4.png)
+
+
+![Screenshot](screenshots/screenshot5.png)
+
+
+
+![Screenshot](screenshots/screenshot6.png)
