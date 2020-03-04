@@ -6,11 +6,11 @@ Firefox for my macOS version
 
 
 
-![Screenshot](screenshots/Screen Shot 2020-03-04 at 4.36.42 AM.png)
+![Screenshot](screenshots/screenshot1.png)
 
 
 
-![Screenshot](screenshots/Screen Shot 2020-03-04 at 4.45.56 AM.png)
+![Screenshot](screenshots/screenshot2.png)
 
 
-![Screenshot](screenshots/Screen Shot 2020-03-04 at 5.04.42 AM.png)
+![Screenshot](screenshots/screenshot3.png)
