@@ -14,3 +14,5 @@ Firefox for my macOS version
 
 
 ![Screenshot](screenshots/screenshot3.png)
+
+![Screenshot](screenshots/screenshot4.png)
