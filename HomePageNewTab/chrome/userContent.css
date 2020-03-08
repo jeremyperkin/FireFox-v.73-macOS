@@ -1,0 +1,21 @@
+@-moz-document url("about:newtab"), url("about:home") {
+    body {
+        overflow: hidden !important;
+    }
+    #root {
+        background-image: url("wallpaper.png") !important;
+        background-size: cover !important;
+    }
+    /* Hide the ugly logo & wordmark sorry Mozilla */
+    .logo-and-wordmark {
+        visibility: hidden !important;
+    }
+    /* Make the search bar rounded */
+    #newtab-search-text,
+    #searchSubmit {
+		border-radius: 50px !important;
+	}
+	.search-wrapper .search-inner-wrapper {
+		margin: 10px !important; }
+	.search-wrapper{ padding-top: 9px !important}
+}
